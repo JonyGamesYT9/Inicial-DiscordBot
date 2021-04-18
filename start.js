@@ -49,7 +49,7 @@ client.on("message", message => {
         message.channel.send("Usage: !say <text>");
         return;
       }
-      message.channel.send(args[1]);
+      message.channel.send(args.join(" "));
       break;
     case "embed":
       const EMBED = new Discord.MessageEmbed()
