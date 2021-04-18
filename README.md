@@ -5,6 +5,8 @@
 
 <h3>¿How to Install NodeJs and DiscordJs?</h3>
 
+## Linux / MacOs:
+
 # Run in console:
 
 - Step 1
