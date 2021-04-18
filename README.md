@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Inicial Discord Bot<h1>
-<p>Private Ranks System for ComuGamers, written in PHP-8 and only supports PocketMine-MP 4.0.0</p>
+<p>Create your first discord bot with Javascript language</p>
 </div>
 
-<h3>¿How to Install Libs?</h3>
+<h3>¿How to Install NodeJs and DiscordJs?</h3>
 
 # Run in console:
 
@@ -22,3 +22,8 @@ npm install node.js
 npm install discord.js
 ```
 
+Done, now only on the console run:
+```
+node <archive>.js 
+```
+> Example:  node start.js
