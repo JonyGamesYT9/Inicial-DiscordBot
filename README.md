@@ -3,11 +3,11 @@
 <p>Create your first discord bot with Javascript language</p>
 </div>
 
-<h3>¿How to Install NodeJs and DiscordJs?</h3>
+<h1>¿How to Install NodeJs and DiscordJs?</h1>
 
-## Linux / MacOs:
+# Linux / MacOs:
 
-# Run in console:
+## Run in console:
 
 - Step 1
 ```
